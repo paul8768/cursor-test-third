@@ -1,0 +1,27 @@
+name: cursor_test_music
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.1
+  youtube_player_flutter: ^9.0.0
+  cached_network_image: ^3.3.1
+  flutter_cache_manager: ^3.3.1
+  audio_service: ^0.18.12
+  just_audio: ^0.9.36
+  rxdart: ^0.27.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
